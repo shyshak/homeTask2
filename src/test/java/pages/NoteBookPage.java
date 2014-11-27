@@ -4,8 +4,6 @@ import core.BaseConfig;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import org.testng.Assert;
-import tests.TestData;
 
 import java.util.List;
 

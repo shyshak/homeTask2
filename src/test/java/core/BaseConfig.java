@@ -17,13 +17,13 @@ public class BaseConfig {
     @BeforeSuite
     public void setUp() throws IOException
     {
-            //get driver from TestData class
-            driver = DriverFactory.getWebDriver(TestData.driver);
-            driver.manage().window().maximize();
-            //timeouts settings
-            driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-            driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
-            driver.manage().timeouts().setScriptTimeout(20, TimeUnit.SECONDS);
+        //get driver from TestData class
+        driver = DriverFactory.getWebDriver(TestData.driver);
+        driver.manage().window().maximize();
+        //timeouts settings
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
+        driver.manage().timeouts().setScriptTimeout(20, TimeUnit.SECONDS);
     }
     protected WebDriver getDriver() {
         if (driver == null)

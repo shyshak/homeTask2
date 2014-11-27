@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/browsers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416508348037" ignored="false" />
     <file path="/baseData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416338559591" ignored="false" />
-    <file path="/Dummy.txt" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417028571034" ignored="false" />
+    <file path="/Dummy.txt" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094374699" ignored="false" />
     <file path="/driverFactory.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416415609652" ignored="false" />
     <file path="/testData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416426946060" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/pages/GeneralPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416509704030" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="/loggers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416509588981" ignored="false" />
     <file path="/BaseConfig.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416951571423" ignored="false" />
     <file path="/Loggers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416508602325" ignored="false" />
-    <file path="/fragment.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416510312621" ignored="false" />
+    <file path="/fragment.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094738114" ignored="false" />
     <file path="/StartPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416656360607" ignored="false" />
     <file path="/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417030112899" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/ui_tests/SmartphoneSearchTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416514871049" ignored="false" />
@@ -51,10 +51,18 @@
     <file path="/UITEsts.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416660364617" ignored="false" />
     <file path="$PROJECT_DIR$/../selenium-qa/src/test/java/ui/RozetkaProjectTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417019608268" ignored="false" />
     <file path="/RozetkaProjectTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417018449644" ignored="false" />
-    <file path="/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417016307985" ignored="false" />
+    <file path="/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094679469" ignored="false" />
     <file path="/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417030202066" ignored="false" />
     <file path="/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417029675617" ignored="false" />
     <file path="$PROJECT_DIR$/../selenium-qa/pom.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417023228516" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/tests/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/tests/TestData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/core/DriverFactory.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/core/Browsers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/core/BaseConfig.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/pages/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/pages/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="$PROJECT_DIR$/src/tests/java/pages/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +78,8 @@
   </component>
   <component name="DebuggerManager">
     <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -104,8 +114,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -115,55 +123,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BaseConfig.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/BaseConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="8" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UITests.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/UITests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="16" selection-start="1705" selection-end="1705" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ComparePage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/ComparePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/ComparePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+            <state line="5" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainPage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/MainPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="46" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
+            <state line="14" column="13" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestData.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/TestData.java">
+      <file leaf-file-name="NoteBookPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+            <state line="32" column="16" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteBookPage.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/NoteBookPage.java">
+      <file leaf-file-name="TestData.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="68" selection-start="2070" selection-end="2070" vertical-scroll-proportion="0.85022026">
+            <state line="13" column="39" selection-start="516" selection-end="516" vertical-scroll-proportion="0.65384614">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UITests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="49" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -179,22 +178,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/core/baseData.java" />
-        <option value="$PROJECT_DIR$/core/driverFactory.java" />
-        <option value="$PROJECT_DIR$/tests/testData.java" />
-        <option value="$PROJECT_DIR$/core/baseConfig.java" />
-        <option value="$PROJECT_DIR$/utils/loggers.java" />
-        <option value="$PROJECT_DIR$/core/DriverFactory.java" />
         <option value="$PROJECT_DIR$/core/browsers.java" />
-        <option value="$PROJECT_DIR$/core/Browsers.java" />
         <option value="$PROJECT_DIR$/utils/Loggers.java" />
         <option value="$PROJECT_DIR$/pages/StartPage.java" />
-        <option value="$PROJECT_DIR$/tests/UITests.java" />
-        <option value="$PROJECT_DIR$/pages/NoteBookPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/DriverFactory.java" />
         <option value="$PROJECT_DIR$/core/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/core/Browsers.java" />
+        <option value="$PROJECT_DIR$/core/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java" />
         <option value="$PROJECT_DIR$/pages/ComparePage.java" />
         <option value="$PROJECT_DIR$/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/pages/NoteBookPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/UITests.java" />
         <option value="$PROJECT_DIR$/tests/TestData.java" />
+        <option value="$PROJECT_DIR$/tests/UITests.java" />
+        <option value="$PROJECT_DIR$/src/tests/java/pages/MainPage.java" />
       </list>
     </option>
   </component>
@@ -242,7 +241,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,6 +269,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -285,36 +305,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_rozetka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propGUI" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rozetka-project" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -323,6 +337,16 @@
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="pages" />
+      <recent name="core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nastya\IdeaProjects\my_rozetka\src\tests" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.UITests.compareNewTest">
     <configuration default="false" name="UITests.amountOfManufacturesTest" type="TestNG" factoryName="TestNG" temporary="true">
@@ -711,14 +735,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43664384" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1130137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15780999" sideWeight="0.6022099" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31969696" sideWeight="0.45547944" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54452056" sideWeight="0.99881095" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27575758" sideWeight="0.5787671" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42123288" sideWeight="0.99881095" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -786,102 +810,150 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/NoteBookPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/BaseConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="8" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0">
+        <state line="41" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/Browsers.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/Browsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="194" selection-end="194" vertical-scroll-proportion="0.46448088">
+        <state line="11" column="12" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/Invoker.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="50" selection-start="8298" selection-end="8298" vertical-scroll-proportion="-3.8" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/TestMethodWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="1379" selection-end="1379" vertical-scroll-proportion="-3.52" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="17" selection-start="12381" selection-end="12381" vertical-scroll-proportion="-3.52" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/SuiteRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="17" selection-start="4563" selection-end="4563" vertical-scroll-proportion="-3.52" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="786" selection-end="786" vertical-scroll-proportion="-3.52" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/TestNG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="23" selection-start="11328" selection-end="11328" vertical-scroll-proportion="-3.8" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/remote/RemoteTestNG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="1250" selection-end="1250" vertical-scroll-proportion="-4.16" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/MethodHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="3332" selection-end="3332" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/BaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="8" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0">
+        <state line="21" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ComparePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ComparePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="46" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/TestData.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+        <state line="32" column="16" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/UITests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="16" selection-start="1705" selection-end="1705" vertical-scroll-proportion="0.0">
+        <state line="48" column="49" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/NoteBookPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="68" selection-start="2070" selection-end="2070" vertical-scroll-proportion="0.85022026">
+        <state line="13" column="39" selection-start="516" selection-end="516" vertical-scroll-proportion="0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my_rozetka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
