@@ -11,7 +11,8 @@ public class TestData {
     public static final String manufacture = "Apple";
     public static final String filterType = "от дорогих к дешевым";
     public static final By category = By.xpath("//a[.='Ноутбуки']");
-    public static final By mac1 = By.cssSelector(".gtile-i-wrap:nth-child(2) .g-tools-to-compare-check");
-    public static final By mac2 = By.cssSelector(".gtile-i-wrap:nth-child(4) .g-tools-to-compare-check");
+    public static final By mac1 = By.xpath("//a[contains(text(),'Apple MacBook Pro Retina 15\" (Z0PU002JE) Официальная гарантия!')]/../../*[6]/*[1]/*[1]/*[1]");
+    public static final By mac2 = By.xpath("//a[contains(text(),'Apple MacBook Air 11\" (MD711UA/B) Официальная гарантия!')]/../../*[6]/*[1]/*[1]/*[1]");
+
 
 }

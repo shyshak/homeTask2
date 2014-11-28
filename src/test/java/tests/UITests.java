@@ -1,11 +1,16 @@
 package tests;
 
 import core.BaseConfig;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.ComparePage;
 import pages.MainPage;
 import pages.NoteBookPage;
+
+import java.util.List;
 
 public class UITests extends BaseConfig{
     MainPage mainPage = new MainPage();
@@ -13,8 +18,7 @@ public class UITests extends BaseConfig{
     ComparePage comparePage = new ComparePage();
 
     @Test
-    public void isOpenedPageTest()
-    {
+   public void isOpenedPageTest() {
         //opens main page
         mainPage.open(TestData.rozetkaURL);
         //checking correction of current URL
@@ -47,6 +51,7 @@ public class UITests extends BaseConfig{
         //add devices to comparison
         noteBookPage.addDevicesToComparison(TestData.mac1);
         noteBookPage.addDevicesToComparison(TestData.mac2);
+
         //check compare list
         Assert.assertTrue(noteBookPage.verifyCompareList());
         //go to comparison

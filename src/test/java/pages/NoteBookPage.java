@@ -33,8 +33,10 @@ public class NoteBookPage extends BaseConfig {
     public void addDevicesToComparison(By comparedElem)
     {
         WebElement checkMB = driver.findElement(comparedElem);
-        if(!checkMB.isSelected())
+        if(checkMB.getAttribute("checked")==null)
+
             ((JavascriptExecutor) driver).executeScript("arguments[0].click()", checkMB);
+
     }
 
     public boolean verifyCompareList()
@@ -46,10 +48,12 @@ public class NoteBookPage extends BaseConfig {
                 compareDevices.get(1).getAttribute("href").equals("http://rozetka.com.ua/apple_macbook_pro_retina_13_z0rb000b5/p1330177/"))
             isRight = true;  */
 
+
         for(WebElement device:compareDevices)      {
-            isRight = device.getAttribute("href").equals("http://rozetka.com.ua/apple_macbook_pro_retina_15_z0rd000af/p1330562/")
-            &&device.getAttribute("href").equals("http://rozetka.com.ua/apple_macbook_pro_retina_13_z0rb000b5/p1330177/");
-            if(isRight) break;
+            boolean isRight1 = device.getText().contains("Apple MacBook Air 11\" (MD711UA/B) Официальная гарантия!");
+            boolean isRight2 = device.getText().contains("Apple MacBook Pro Retina 15\" (Z0PU002JE) Официальная гарантия!");
+            if(isRight1&&isRight2) break;
+            isRight = isRight1&&isRight2;
         }
 
         return isRight;

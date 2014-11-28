@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/browsers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416508348037" ignored="false" />
     <file path="/baseData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416338559591" ignored="false" />
-    <file path="/Dummy.txt" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094374699" ignored="false" />
+    <file path="/Dummy.txt" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199816907" ignored="false" />
     <file path="/driverFactory.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416415609652" ignored="false" />
     <file path="/testData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416426946060" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/pages/GeneralPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416509704030" ignored="false" />
@@ -14,11 +14,11 @@
     <file path="/SearchPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416493727741" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/pages/SearchPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416493770633" ignored="false" />
     <file path="/loggers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416509588981" ignored="false" />
-    <file path="/BaseConfig.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416951571423" ignored="false" />
+    <file path="/BaseConfig.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199019225" ignored="false" />
     <file path="/Loggers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416508602325" ignored="false" />
-    <file path="/fragment.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094738114" ignored="false" />
+    <file path="/fragment.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198446322" ignored="false" />
     <file path="/StartPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416656360607" ignored="false" />
-    <file path="/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417030112899" ignored="false" />
+    <file path="/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417203283407" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/ui_tests/SmartphoneSearchTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416514871049" ignored="false" />
     <file path="/SmartphoneSearchTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416514818516" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled3/base/TestBase.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416595660148" ignored="false" />
@@ -33,7 +33,7 @@
     <file path="/SocialNetPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416661126554" ignored="false" />
     <file path="/UserPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416656373902" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled3/pages/UserPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416598421949" ignored="false" />
-    <file path="/TestData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417030301407" ignored="false" />
+    <file path="/TestData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417193912234" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled3/pom.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416653864477" ignored="false" />
     <file path="/pom.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416653864477" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetkaLogIn/baseConfig/TestBase.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1416656503546" ignored="false" />
@@ -52,7 +52,7 @@
     <file path="$PROJECT_DIR$/../selenium-qa/src/test/java/ui/RozetkaProjectTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417019608268" ignored="false" />
     <file path="/RozetkaProjectTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417018449644" ignored="false" />
     <file path="/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417094679469" ignored="false" />
-    <file path="/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417030202066" ignored="false" />
+    <file path="/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417202562876" ignored="false" />
     <file path="/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417029675617" ignored="false" />
     <file path="$PROJECT_DIR$/../selenium-qa/pom.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417023228516" ignored="false" />
     <file path="$PROJECT_DIR$/src/tests/java/tests/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
@@ -63,6 +63,25 @@
     <file path="$PROJECT_DIR$/src/tests/java/pages/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
     <file path="$PROJECT_DIR$/src/tests/java/pages/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
     <file path="$PROJECT_DIR$/src/tests/java/pages/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417095410731" ignored="false" />
+    <file path="/testng.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417107306541" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/pages/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/pages/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/pages/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/tests/TestData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/tests/UITests.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/core/BaseConfig.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/core/Browsers.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/java/core/DriverFactory.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198595334" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/myTest/pages/ComparePage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198608986" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/myTest/pages/MainPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198608986" ignored="false" />
+    <file path="$PROJECT_DIR$/src/myTest/myTest/pages/NoteBookPage.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417198608986" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/src/test/java/core/WebDriverFactory.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199735928" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/src/test/java/ui_tests/SmartphoneSearchTest.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199735928" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/src/test/java/core/TestBase.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199735928" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/src/test/resources/testng.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199735928" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/src/test/java/ui_tests/TestData.java" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199735928" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/.idea/workspace.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199930880" ignored="false" />
+    <file path="$PROJECT_DIR$/../rozetka-project/.idea/compiler.xml" changelist="94198491-f850-4819-897a-2e253ef5a78c" time="1417199793845" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +96,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -114,6 +131,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -123,10 +142,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="UITests.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="8" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.2631579">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/core/BaseConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Browsers.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/core/Browsers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/core/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="1" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ComparePage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/ComparePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="12" column="1" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,7 +190,7 @@
       <file leaf-file-name="MainPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+            <state line="26" column="1" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,25 +199,18 @@
       <file leaf-file-name="NoteBookPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="16" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="45" column="105" selection-start="1318" selection-end="1345" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestData.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="39" selection-start="516" selection-end="516" vertical-scroll-proportion="0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UITests.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="49" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
+            <state line="14" column="150" selection-start="682" selection-end="788" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,22 +226,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/core/browsers.java" />
-        <option value="$PROJECT_DIR$/utils/Loggers.java" />
-        <option value="$PROJECT_DIR$/pages/StartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/NoteBookPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/core/Browsers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ComparePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/core/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/myTest/java/core/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/myTest/myTest/core/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/core/BaseConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/Browsers.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/core/BaseConfig.java" />
-        <option value="$PROJECT_DIR$/core/Browsers.java" />
-        <option value="$PROJECT_DIR$/core/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/ComparePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java" />
-        <option value="$PROJECT_DIR$/pages/ComparePage.java" />
-        <option value="$PROJECT_DIR$/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/pages/NoteBookPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/UITests.java" />
-        <option value="$PROJECT_DIR$/tests/TestData.java" />
-        <option value="$PROJECT_DIR$/tests/UITests.java" />
-        <option value="$PROJECT_DIR$/src/tests/java/pages/MainPage.java" />
       </list>
     </option>
   </component>
@@ -241,6 +289,138 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tests">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tests">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="my_rozetka">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,6 +467,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -312,11 +510,35 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_rozetka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,7 +549,7 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propGUI" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rozetka-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -345,80 +567,12 @@
       <recent name="core" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nastya\IdeaProjects\my_rozetka\src\myTest" />
+      <recent name="C:\Users\Nastya\IdeaProjects\my_rozetka\src\main\java" />
       <recent name="C:\Users\Nastya\IdeaProjects\my_rozetka\src\tests" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.UITests.compareNewTest">
-    <configuration default="false" name="UITests.amountOfManufacturesTest" type="TestNG" factoryName="TestNG" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="my_rozetka" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.UITests" />
-      <option name="METHOD_NAME" value="amountOfManufacturesTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UITests.isOpenedCategoryTest" type="TestNG" factoryName="TestNG" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="my_rozetka" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.UITests" />
-      <option name="METHOD_NAME" value="isOpenedCategoryTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="UITests.ManufacturesTest" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -533,6 +687,82 @@
       <properties />
       <listeners />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UITests.compareTest" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="my_rozetka" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests" />
+      <option name="METHOD_NAME" value="compareTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UITests.isOpenedPageTest" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="my_rozetka" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.UITests" />
+      <option name="METHOD_NAME" value="isOpenedPageTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52960" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -691,19 +921,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="TestNG.UITests.AddToCompareTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.UITests.amountOfManufacturesTest" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.UITests.isOpenedCategoryTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.UITests.ManufacturesTest" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.UITests.AddToCompareTest1" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.UITests.compareNewTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.UITests.ManufacturesTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.UITests.AddToCompareTest1" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.UITests.compareNewTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.UITests.compareTest" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.UITests.isOpenedPageTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.UITests.compareNewTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.UITests.AddToCompareTest1" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.UITests.ManufacturesTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.UITests.amountOfManufacturesTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.UITests.isOpenedCategoryTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.UITests.compareTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.UITests.isOpenedPageTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.UITests.AddToCompareTest1" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.UITests.ManufacturesTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -722,27 +952,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25342464" sideWeight="0.4969697" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4760274" sideWeight="0.4969697" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989726" sideWeight="0.49772727" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1130137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5068493" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15780999" sideWeight="0.6022099" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27575758" sideWeight="0.5787671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42123288" sideWeight="0.99881095" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17272727" sideWeight="0.5650685" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43493152" sideWeight="0.99881095" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -819,49 +1049,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/core/Browsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/core/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0">
+        <state line="28" column="1" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/ComparePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="12" column="1" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+        <state line="26" column="1" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="16" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
+        <state line="64" column="4" selection-start="2189" selection-end="2189" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="8" selection-end="13" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="49" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
+        <state line="59" column="35" selection-start="5163" selection-end="5163" vertical-scroll-proportion="0.16432866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/Browsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ComparePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="516" selection-end="516" vertical-scroll-proportion="0.65384614">
+        <state line="14" column="150" selection-start="682" selection-end="788" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/NoteBookPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="105" selection-start="1318" selection-end="1345" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/UITests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="8" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.2631579">
           <folding />
         </state>
       </provider>

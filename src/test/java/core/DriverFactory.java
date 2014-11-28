@@ -8,13 +8,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import java.io.IOException;
 import java.security.InvalidParameterException;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Nastya
- * Date: 18.11.14
- * Time: 21:05
- * To change this template use File | Settings | File Templates.
- */
+
 
 //implements Factory Pattern.
 // Helps to make general solution for different objects  (drivers in our case)
