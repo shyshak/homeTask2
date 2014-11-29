@@ -11,6 +11,7 @@ import pages.MainPage;
 import pages.NoteBookPage;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 public class UITests extends BaseConfig{
     MainPage mainPage = new MainPage();
@@ -18,7 +19,7 @@ public class UITests extends BaseConfig{
     ComparePage comparePage = new ComparePage();
 
     @Test
-   public void isOpenedPageTest() {
+    public void isOpenedPageTest() {
         //opens main page
         mainPage.open(TestData.rozetkaURL);
         //checking correction of current URL
@@ -45,12 +46,16 @@ public class UITests extends BaseConfig{
     }
 
     @Test(dependsOnMethods = "ManufacturesTest")
-    public void AddToCompareTest() {
+    public void AddToCompareTest() throws InterruptedException {
         //filter devices according to filter type in TestData class
         noteBookPage.filterDevices(TestData.filterType);
         //add devices to comparison
+
         noteBookPage.addDevicesToComparison(TestData.mac1);
+
         noteBookPage.addDevicesToComparison(TestData.mac2);
+
+        Thread.sleep(2000);
 
         //check compare list
         Assert.assertTrue(noteBookPage.verifyCompareList());
@@ -71,7 +76,7 @@ public class UITests extends BaseConfig{
     public void compareNewTest()
     {
         //checking if driver returns to the page with devices for adding to comparison
-        Assert.assertEquals(getDriver().getCurrentUrl(), "http://rozetka.com.ua/notebooks/c80004/");
+        Assert.assertEquals(getDriver().getCurrentUrl().contains("http://rozetka.com.ua/notebooks/c80004/"),true);
         //checking the presence of the comparison list
         Assert.assertTrue(noteBookPage.verifyCompareList());
     }
